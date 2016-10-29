@@ -1,0 +1,10 @@
+body{
+	text-align: center;
+}
+
+button{
+	background-color: #0099ff;
+	font-size: 20px;
+	border-radius: 8px;
+	border: 2px solid black;
+}
